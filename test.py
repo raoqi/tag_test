@@ -6,4 +6,4 @@ if ss in ['ss', 'dd']:
 else:
     print 2
     
-
+print 2
